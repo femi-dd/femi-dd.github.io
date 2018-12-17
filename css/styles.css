@@ -545,6 +545,6 @@ iframe {
 }
 
 /* ========= Custom ========= */
-#rcorners1 {
+.rcorners1 {
 	border-radius: 7px;
 }
